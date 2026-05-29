@@ -120,7 +120,7 @@ button:disabled{opacity:.3;cursor:not-allowed;}
     </div>
     <div id="lmgr" style="display:none">
       <div class="fg"><label class="fl">PIN KOD</label><input type="password" id="mpn" placeholder="&#8226;&#8226;&#8226;&#8226;"/><div id="mpe" class="err">&#x274C; Noto&#x2018;g&#x2018;ri PIN</div></div>
-      <div class="brow"><button class="bg" id="btn-back-mgr">&#8592; Orqaga</button><button class="bp" id="btn-mlogin" style="flex:2">Kirish</button></div>
+      <div class="brow"><button class="bp" id="btn-mlogin" style="flex:2">Kirish</button></div>
     </div>
     <div id="lemp" style="display:none">
       <div id="emp-name-show" style="font-weight:500;font-size:16px;text-align:center;margin-bottom:14px;"></div>
@@ -130,7 +130,7 @@ button:disabled{opacity:.3;cursor:not-allowed;}
         <div class="fg"><label class="fl">YANGI PIN (4-6 raqam)</label><input type="password" id="np1" placeholder="&#8226;&#8226;&#8226;&#8226;" maxlength="6"/></div>
         <div class="fg"><label class="fl">TASDIQLASH</label><input type="password" id="np2" placeholder="&#8226;&#8226;&#8226;&#8226;" maxlength="6"/><div id="npe" class="err">&#x274C; PIN kodlar mos kelmadi</div></div>
       </div>
-      <div class="brow"><button class="bg" id="btn-back-emp">&#8592; Orqaga</button><button class="bp" id="btn-elogin" style="flex:2">Kirish</button></div>
+      <div class="brow"><button class="bp" id="btn-elogin" style="flex:2">Kirish</button></div>
     </div>
   </div></div>
 </div>
